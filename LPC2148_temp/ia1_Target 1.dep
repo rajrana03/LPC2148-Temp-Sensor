@@ -1,0 +1,11 @@
+Dependencies for Project 'ia1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\main.c)(0x623E0415)(-c --cpu ARM7TDMI -D__EVAL -g -O1 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc214x.h)(0x5209CD6C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x51C7DA6C)
+I (LCD.h)(0x623DE6F4)
+I (ADC.h)(0x623DE70F)
+I (UART.h)(0x623DF687)
+F (.\lcd.h)(0x623DE6F4)()
+F (.\adc.h)(0x623DE70F)()
+F (.\uart.h)(0x623DF687)()
